@@ -18,7 +18,7 @@ int32_t main()
         {
             cout << "NO" << endl;
         }
-        else if (k % 4 == 0 && k >= n * n)
+        else if (k % 4 == 0)
         {
             cout << "NO" << endl;
         }
